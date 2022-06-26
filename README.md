@@ -3,7 +3,8 @@
 Collect bitcoin prices by date and article titles,
 and conduct an emotional analysis using BERT FinBERT for the collected data.
 
-get_bitcoin_news_data.py: inveseting.com에서 기사 제목을 수집하고 날짜별로 정리해서 txt 파일에 저장하는 코드입니다.
+get_bitcoin_news_data.py: 
+inveseting.com에서 기사 제목을 수집하고 날짜별로 정리해서 txt 파일에 저장하는 코드입니다.
 코드에 대한 자세한 설명은 아래에 있습니다.
 get_bitcoin_news_data.py: Code that collects article titles from inveseting.com, organizes them by date, and stores them in a txt file.
 A detailed description of the code is below.
