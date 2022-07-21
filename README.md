@@ -1,5 +1,3 @@
-# get_bitcoinprice_news_data_with_sentiment_analysis
-
 # **Bitcoin Dataset Generator and Bitcoin Datasets**
 
 ## **Introduction**
