@@ -12,8 +12,5 @@ A detailed description of the code is below.
 
 https://velog.io/@tree_jhk/%EB%89%B4%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-%EB%B0%8F-%EC%A0%84%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-1-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0
 
-
-
-
 get_bitcoinprice_news_data.py:  
-토큰화 과정을 거치고 불용어를 제거했습니다. 머신러닝으로 텍스트 데이터를 다룰 때 유용합니다.
+토큰화 과정을 거치고 불용어를 제거했습니다. 머신러닝으로 텍스트 데이터를 수집할 때는 전처리를 꼼꼼히 해야하기 때문에 추천합니다.
