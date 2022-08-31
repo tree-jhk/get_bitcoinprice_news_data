@@ -1,5 +1,4 @@
 # **Bitcoin Dataset Generator and Bitcoin Datasets**
-test 
 ## **Introduction**
 두 가지 폴더가 있습니다.  
 >### **dataset_generator 폴더:**  
